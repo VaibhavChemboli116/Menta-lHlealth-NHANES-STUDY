@@ -9,7 +9,6 @@ Research Objectives
 Primary Aim: Identify the gender and age group most affected by mental health challenges.
 
 Secondary Aim: Determine which of the four categories—Lifestyle, Socioeconomic, Demographic, or Health—has the strongest association with mental health.
-Hypotheses
 
 Primary Hypothesis:
 
